@@ -2,7 +2,7 @@
 
 ***
 
-##To run project manually:
+## To run project manually:
 
 `python3 MovementPatternAnalysis.py`
 
@@ -13,7 +13,7 @@ Click run.
 
 ---
 
-##To run the project using docker:
+## To run the project using docker:
 
 1) `mvn clean install`
 
