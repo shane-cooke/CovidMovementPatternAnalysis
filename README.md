@@ -9,7 +9,6 @@
 ## To run the project in Jupyter:
 
 `Jupyter Notebook`
-Click run.
 
 ---
 
