@@ -6,7 +6,7 @@
 
 `python3 MovementPatternAnalysis.py`
 
-##To run project in Jupyter:
+## To run project in Jupyter:
 
 `Jupyter Notebook`
 Click run.
