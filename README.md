@@ -2,25 +2,18 @@
 
 ***
 
-## To run project manually:
+## To run the project manually:
 
 `python3 MovementPatternAnalysis.py`
 
-## To run project in Jupyter:
+## To run the project in Jupyter:
 
 `Jupyter Notebook`
 Click run.
 
 ---
 
-## To run the project using docker:
-
-1) `mvn clean install`
-
-2) `docker compose build`
-
-3) `docker compose up`
-
-4) `mvn exec:java -pl client`
+## Analysis
+A full report of the results and graphs produced by this movement pattern analysis is available in the Jupyter Notebook file.
 
 ***
